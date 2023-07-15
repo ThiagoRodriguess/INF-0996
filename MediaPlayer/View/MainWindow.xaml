@@ -1,0 +1,39 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1.ViewModel"
+        mc:Ignorable="d"
+        Title="MediaPlayer" Height="450" Width="800" AllowDrop="True" Drop="Window_Drop">
+    <Grid Background="#222222">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <MediaElement x:Name="mediaElement1" Grid.Row="0" OpacityMask="Black" MediaOpened="MediaElement1_MediaOpened"
+              HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <MediaElement.Source>
+                <Binding Path="VideoPath" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged" />
+            </MediaElement.Source>
+            <MediaElement.DataContext>
+                <local:ViewModel />
+            </MediaElement.DataContext>
+        </MediaElement>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <Button Content="Play" Width="80" Margin="5" Click="Button_Click" Background="#3498DB" Foreground="White" />
+            <Button Content="Pause" Width="80" Margin="5" Click="Button_Click_1" Background="#3498DB" Foreground="White" />
+            <Button Content="Stop" Width="80" Margin="5" Click="Button_Click_2" Background="#3498DB" Foreground="White" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <Slider x:Name="slider_seek" Width="600" Height="30" Margin="5" Background="#3498DB" Foreground="White" Opacity="0.7"
+                    Value="{Binding SeekPosition, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Cursor="Hand" />
+            <Slider x:Name="slider_vol" Width="150" Height="30" Margin="5" Minimum="0" Maximum="1" Background="#3498DB" Foreground="White" Opacity="0.7"
+                    Value="{Binding Volume, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" LargeChange="0.1" SmallChange="0.01" Cursor="Hand" />
+        </StackPanel>
+    </Grid>
+</Window>
