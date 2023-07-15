@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Media;
-using WpfApp1.Models;
-using WpfApp1.ViewModel;
+using MediaPlayer.Models;
+using MediaPlayer.ViewModel;
 using System.ComponentModel;
 using System.Windows.Data;
 using System.Windows.Documents;
@@ -18,7 +18,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Threading;
 
-namespace WpfApp1
+namespace MediaPlayer
 {
     /// <summary>
     /// Interação lógica para MainWindow.xam

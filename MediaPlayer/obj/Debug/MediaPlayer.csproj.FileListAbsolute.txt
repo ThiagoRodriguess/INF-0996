@@ -19,3 +19,24 @@ C:\Users\thiag\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.manifest
 C:\Users\thiag\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.application
 C:\Users\thiag\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.manifest
 C:\Users\thiag\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.application
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\bin\Debug\WpfApp1.exe.config
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\bin\Debug\WpfApp1.exe.manifest
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\bin\Debug\WpfApp1.application
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\bin\Debug\WpfApp1.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\bin\Debug\WpfApp1.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\MediaPlayer.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\MediaPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\View\MainWindow.g.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\App.g.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\View\MainWindow.baml
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\WpfApp1.g.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\WpfApp1.exe.manifest
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\WpfApp1.application
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\WpfApp1.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\Trabalho - INF 0996\INF-0996\MediaPlayer\obj\Debug\WpfApp1.pdb

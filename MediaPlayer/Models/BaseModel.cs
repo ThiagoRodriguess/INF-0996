@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WpfApp1.Models
+namespace MediaPlayer.Models
 {
     public class BaseModel : INotifyPropertyChanged
     {
