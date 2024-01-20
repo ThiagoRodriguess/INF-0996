@@ -24,7 +24,7 @@ Este é um aplicativo de media player simples desenvolvido em WPF.
 
 ## Personalização
 
-- Você pode personalizar a aparência do MediaPlayer ajustando as propriedades de estilo no arquivo XAML (`MainWindow.xaml`) e as propriedades de aparência no código C# (`ViewModel.cs`).
+- Você pode personalizar a aparência do MediaPlayer ajustando as propriedades de estilo no arquivo XAML (`MainWindow.xaml`).
 
 ## Descrição da arquitetura da aplicação
 
